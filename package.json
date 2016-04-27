@@ -1,5 +1,5 @@
 {
-  "name": "karma-jasmine-jquery",
+  "name": "karma-jasmine-jquery-2",
   "version": "0.1.1",
   "description": "Jasmine-jquery plugin for Jasmine in karma",
   "main": "lib/index.js",
