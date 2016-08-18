@@ -1,6 +1,10 @@
 karma-jasmine-jquery
 ====================
 
+This library exists due to Issue (https://github.com/bessdsv/karma-jasmine-jquery/issues/8) and PR (https://github.com/bessdsv/karma-jasmine-jquery/pull/10). 
+
+=========
+
 Jasmine-jquery plugin for Jasmine in Karma.
 
 It karma adapter for
@@ -11,7 +15,7 @@ It karma adapter for
 Install the plugin from npm:
 
 ```sh
-$ npm install karma-jasmine-jquery
+$ npm install karma-jasmine-jquery-2
 ```
 
 ## Attention
